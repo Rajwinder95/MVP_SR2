@@ -1,0 +1,38 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: Black;
+    background-color: #F7F9F9;
+    height: 2000px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    background-color: white;
+    border-bottom: solid;
+    border-color: #B8BBBB;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.nav li:hover {
+    background-color:#111551;
+}
+.navbar-nav  li a:hover {
+    color: white !important;
+}
+.active {
+    background-color:#111551;
+}
+.active {
+    color: white !important;
+}
+.navbar-brand {
+  padding-top: 0;
+}
+.headh1 {
+  color: black;
+  text-align: center;
+  margin-top: 200px;
+}
