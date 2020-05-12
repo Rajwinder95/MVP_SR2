@@ -36,3 +36,27 @@ body {
   text-align: center;
   margin-top: 200px;
 }
+@media only screen and (max-width: 600px) {
+  .hidecdu {
+    display:none;
+  }
+  .homeimg {
+    height: 200px;
+  }
+}
+
+.part_1{
+  background-color: #13869A;
+  height: 200px;
+  margin-top: -21px;
+}
+.part_2{
+  background-color: #13969A;
+  height: 200px;
+  margin-top: -21px;
+}
+.part_3{
+  background-color: #13769A;
+  height: 200px;
+  margin-top: -21px;
+}
